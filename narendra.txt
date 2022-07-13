@@ -1,1 +1,5 @@
-hi everything
+Name:Narendra
+DOB:09-02-1999
+email:kumarsmile@gmailcom
+address:local
+phno:9876543210
